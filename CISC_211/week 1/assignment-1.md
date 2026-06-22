@@ -2,7 +2,7 @@
 
 ## Flowchart
 
-![XOR Flowchart](flowchart.jpg)
+![XOR Flowchart](../../flowchart.jpg)
 
 ## Challenges Encountered
 
