@@ -2,7 +2,7 @@
 
 ## Flowchart
 
-![XOR Flowchart](flowchart.png)
+![XOR Flowchart](flowchart.jpg)
 
 ## Challenges Encountered
 
